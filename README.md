@@ -1,71 +1,98 @@
 <!-- GitHub Profile README for RCThakur -->
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2FF7FE&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rinkesh+Thakur;MERN+Stack+Developer;Always+Learning+%F0%9F%93%9A;Let%27s+Build+Something+Great+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-
-<h1 align="center">Hi 👋, I'm Rinkesh Thakur</h1>
-<h3 align="center">🚀 MERN Stack Developer | Passionate About Building Scalable Full-Stack Apps</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-2ECC71?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-Lover-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborations-blueviolet?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
 ### 🔍 About Me
 
-- 💻 I build responsive full-stack applications using **React.js, Node.js, Express, and MongoDB**
-- 🔧 I focus on writing clean, maintainable code and user-friendly interfaces
-- 🌱 Currently enhancing: **Authentication systems, Charts, Role-based dashboards**
-- 🔭 Open to collaborations on exciting MERN stack projects
-- 📬 Contact me: `rinkeshthakur1997@gmail.com`
+- 💻 I build scalable full-stack apps using **React.js, Node.js, Express & MongoDB**
+- ✨ Focused on **UI/UX, modular code**, and **clean architecture**
+- 🌱 Currently learning: **Authentication, Charts & Role-based Dashboards**
+- 💬 Ask me about: **MERN stack, Firebase, or anything full-stack**
+- 📫 Reach me at: `rinkeshthakur1997@gmail.com`
+- 🌐 Portfolio: [https://rcthakur-portfolio.netlify.app/](https://rcthakur-portfolio.netlify.app/)
 
 ---
 
-### 🛠️ Tech Stack
+### ⚒️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,html,css,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,firebase,git,github,vscode" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
 
-<table width=100%>
+<table>
   <tr>
     <td width="100%">
-      <h4>🏢 Tenant-Landlord Communication Platform</h4>
+      <h3>📦 SmartInventory</h3>
       <ul>
-        <li>🧑‍🤝‍🧑 Role-based dashboards</li>
-        <li>📨 Messaging, Rent Tracker, Maintenance Logs</li>
-        <li>📊 MongoDB + React + Node integration</li>
+        <li>📊 Inventory Management + AI Demand Forecasting</li>
+        <li>🔔 Real-time stock alerts, QR/Barcode support</li>
+        <li>🔒 Role-based access with secure Firebase Auth</li>
       </ul>
-      <a href="https://github.com/RCThakur/Tenant-Landlord-Communication" target="_blank">🔗 View Repo</a>
+      <a href="https://github.com/RCThakur/smart-inventory" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" />
+      </a>
+      <a href="https://smartinventory-app.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-Demo-00C897?style=for-the-badge&logo=netlify&logoColor=white" />
+      </a>
     </td>
-    
   </tr>
   <tr>
     <td width="100%">
-      <h4>💰 Personal Finance Tracker</h4>
+      <h3>🎮 EduGamify – Learning Through Play</h3>
       <ul>
-        <li>📈 Add, edit, delete transactions</li>
-        <li>📊 Firebase + React integration</li>
-        <li>📅 Income vs Expense chart view</li>
+        <li>🎓 EdTech platform with gamified session & payout tracking</li>
+        <li>🧠 Admin dashboard, mentor logic setup, audit trail</li>
+        <li>💼 Modular, scalable architecture with clean UI</li>
       </ul>
-      <a href="https://github.com/RCThakur/Personal-Finance-Tracker" target="_blank">🔗 View Repo</a>
+      <a href="https://github.com/RCThakur/edtech-payout-system" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" />
+      </a>
+      <a href="https://edugamify.netlify.app/home.html" target="_blank">
+        <img src="https://img.shields.io/badge/Live-Demo-00C897?style=for-the-badge&logo=netlify&logoColor=white" />
+      </a>
     </td>
-   
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3>💰 Personal Finance Tracker</h3>
+      <ul>
+        <li>📈 Add, edit, and delete transactions</li>
+        <li>📅 Income vs Expense chart summaries</li>
+        <li>🔥 Firebase Auth + Firestore integration</li>
+      </ul>
+      <a href="https://github.com/RCThakur/Personal-Finance-Tracker" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" />
+      </a>
+    </td>
   </tr>
 </table>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RCThakur&show_icons=true&theme=tokyonight" alt="RCThakur GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RCThakur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RCThakur&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RCThakur&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCThakur&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCThakur&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -74,18 +101,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rinkesh-thakur-3b985a160/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rinkeshthakur1997@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/RCThakur" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://rcthakur-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  💻 Built with ❤️ by <strong>Rinkesh Thakur</strong>
+  Built with ❤️ by <strong>Rinkesh Thakur</strong>
 </p>
